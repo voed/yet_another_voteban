@@ -1,5 +1,4 @@
-# yet_another_voteban
-Yet Another Voteban AMXX Plugin
+# Yet Another Voteban AMXX Plugin
 Удобный и симпатичный голосовальщик за бан игроков
 для Ваших великолепных серверов Counter-Strike 1.6.
 Авторы: AndrewZ и voed.
