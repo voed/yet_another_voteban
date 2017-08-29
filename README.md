@@ -4,6 +4,7 @@
 Авторы: [AndrewZo](https://github.com/AndrewZo), [voed](https://github.com/voed), [wopox1337](https://github.com/wopox1337).
  
 Переменные плагина:
+
 |	Cvar	|	Default value	|	Description	|
 |:-------------:|:---------------------:|:---------------------:|
 |yav_time_default| "5" |стандартное время бана в минутах, доступное для простых смертных (1 значение).|
