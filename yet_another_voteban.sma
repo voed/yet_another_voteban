@@ -844,7 +844,7 @@ stock client_spk( id, iSoundID )
 	
 stock get_user_status( id )
 {
-	if( !is_user_connected( id ) || is_user_hltv( id )/* || is_user_bot( id )*/ )
+	if( !is_user_connected( id ) || is_user_hltv( id ) || is_user_bot( id ) )
 		return 0
 		
 	return 1
